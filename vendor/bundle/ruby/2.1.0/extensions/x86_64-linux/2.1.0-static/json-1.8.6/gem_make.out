@@ -1,0 +1,14 @@
+current directory: /vagrant/vendor/bundle/ruby/2.1.0/gems/json-1.8.6/ext/json
+/opt/rubies/ruby-2.1.2/bin/ruby -r ./siteconf20171122-1832-cs4w1v.rb extconf.rb
+creating Makefile
+
+current directory: /vagrant/vendor/bundle/ruby/2.1.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /vagrant/vendor/bundle/ruby/2.1.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /vagrant/vendor/bundle/ruby/2.1.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
+installing default libraries
